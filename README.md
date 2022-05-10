@@ -1,6 +1,6 @@
 SPAM FILTER_CLASSIFIER
 
-Created a spam filter classifier using the spam data available in kaggle.
+Created a spam filter classifier using the spam data available in kaggle.<b/>
 The engine will show  is the given message is spam or ham
 steps performed
 --Imported data
