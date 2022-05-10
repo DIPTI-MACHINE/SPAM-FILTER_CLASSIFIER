@@ -9,5 +9,5 @@ steps performed\
 --data preprocessing(lemmatization and stemming)\
 --hyper parameter tuning(tried all model with voting and stacking)\
 --used heroku to showcase  in the html\
---deployed in heroku\
+--deployed in heroku
 
